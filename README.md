@@ -105,3 +105,81 @@
 ## 九、各类课程学分比例
 
 <table><tbody><tr><td colspan="3" rowspan="2">学分类型/课程类型</td><td rowspan="2">应修小计</td><td rowspan="2">理论教学</td><td colspan="2">实验教学</td><td colspan="2">实践教学</td></tr><tr><td>课内实验课程</td><td>独立设置实验课程</td><td>课内实践教学</td><td>独立设置实践教学</td></tr><tr><td rowspan="2">通识教育必修课程</td><td colspan="2">学分数</td><td>27</td><td>21</td><td></td><td></td><td>3</td><td>4</td></tr><tr><td colspan="2">学分比例</td><td>18.55%</td><td>13.91%</td><td></td><td></td><td>1.99%</td><td>2.65%</td></tr><tr><td rowspan="2">学科平台基础课程</td><td colspan="2">学分数</td><td>31</td><td>31</td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">学分比例</td><td>20.53%</td><td>20.53%</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">专业必修课程</td><td colspan="2">学分数</td><td>71</td><td>52</td><td>2</td><td>2</td><td>8</td><td>7</td></tr><tr><td colspan="2">学分比例</td><td>47.01%</td><td>34.43%</td><td>1.32%</td><td>1.32%</td><td>5.3%</td><td>4.64%</td></tr><tr><td rowspan="2">专业选修课程</td><td colspan="2">学分数</td><td>9</td><td>7</td><td></td><td></td><td>2</td><td></td></tr><tr><td colspan="2">学分比例</td><td>5.96%</td><td>4.64%</td><td></td><td></td><td>1.32%</td><td></td></tr><tr><td rowspan="2">通识教育核心课程</td><td colspan="2">学分数</td><td>8</td><td>8</td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">学分比例</td><td>5.3%</td><td>5.3%</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">通识教育选修课程</td><td colspan="2">学分数</td><td>4</td><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">学分比例</td><td>2.65%</td><td>2.65%</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">合计</td><td colspan="2">学分数</td><td>150</td><td>123</td><td>2</td><td>2</td><td>13</td><td>11</td></tr><tr><td colspan="2">学分比例</td><td>100%</td><td>81.46%</td><td>1.32%</td><td>1.32%</td><td>8.61%</td><td>7.29%</td></tr></tbody></table>
+
+## 十、计算机科学与技术(泰山学堂)专业课程设置及学时分配表
+
+### (一)专业培养计划--通识教育课程
+<table border="1">
+  <thead>
+    <tr>
+      <th rowspan="2">课程类别</th>
+      <th rowspan="2">课程号/组</th>
+      <th rowspan="2">课程名称</th>
+      <th rowspan="2">学分数</th>
+      <th rowspan="2">总学时</th>
+      <th colspan="4">总学时构成</th>
+      <th rowspan="2">考核方式</th>
+      <th rowspan="2">开设学期</th>
+      <th rowspan="2">备注</th>
+    </tr>
+    <tr>
+      <th>理论学时</th>
+      <th>实验学时</th>
+      <th>实践学时</th>
+      <th>实践周数</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="17">通识教育必修课程</td>
+      <td>sd02810740</td>
+      <td>习近平新时代中国特色社会主义思想概论</td>
+      <td>3</td><td>48</td><td>48</td><td></td><td></td><td></td><td>考试</td><td>4</td><td></td>
+    </tr>
+    <tr><td>sd02810780</td><td>毛泽东思想和中国特色社会主义理论体系概论</td><td>3</td><td>56</td><td>40</td><td></td><td>16</td><td></td><td>考试</td><td>4</td><td></td></tr>
+    <tr><td>sd02810880</td><td>马克思主义基本原理</td><td>3</td><td>56</td><td>40</td><td></td><td>16</td><td></td><td>考试</td><td>1</td><td></td></tr>
+    <tr><td>sd02810860</td><td>中国近现代史纲要</td><td>3</td><td>56</td><td>40</td><td></td><td>16</td><td></td><td>考试</td><td>1</td><td></td></tr>
+    <tr><td>sd02810850</td><td>思想道德与法治</td><td>3</td><td>56</td><td>40</td><td></td><td>16</td><td></td><td>考试</td><td>2</td><td></td></tr>
+    <tr><td>00070</td><td>大学英语课程组</td><td>4</td><td>128</td><td>64</td><td></td><td>32</td><td></td><td>考试</td><td>1-4</td><td>课外学习时32</td></tr>
+    <tr><td>sd02910690</td><td>体育(1)</td><td>1</td><td>32</td><td>32</td><td></td><td></td><td></td><td>考查</td><td>1-4</td><td></td></tr>
+    <tr><td>sd02910680</td><td>体育(2)</td><td>1</td><td>32</td><td>32</td><td></td><td></td><td></td><td>其它</td><td>1-4</td><td></td></tr>
+    <tr><td>sd02910650</td><td>体育(3)</td><td>1</td><td>32</td><td>32</td><td></td><td></td><td></td><td>其它</td><td>1-4</td><td></td></tr>
+    <tr><td>sd02910640</td><td>体育(4)</td><td>1</td><td>32</td><td>32</td><td></td><td></td><td></td><td>其它</td><td>1-4</td><td></td></tr>
+    <tr><td>sd06910010</td><td>军事理论</td><td>2</td><td>32</td><td>32</td><td></td><td></td><td></td><td>考试</td><td>2</td><td></td></tr>
+    <tr><td>sd090101C0</td><td>形势与政策(1)</td><td>0.5</td><td>8</td><td>8</td><td></td><td></td><td></td><td>考试</td><td>1</td><td></td></tr>
+    <tr><td>sd090101D0</td><td>形势与政策(2)</td><td>0.5</td><td>8</td><td>8</td><td></td><td></td><td></td><td>考试</td><td>2</td><td></td></tr>
+    <tr><td>sd090101E0</td><td>形势与政策(3)</td><td>0.5</td><td>8</td><td>8</td><td></td><td></td><td></td><td>考试</td><td>3</td><td></td></tr>
+    <tr><td>sd090101F0</td><td>形势与政策(4)</td><td>0.5</td><td>8</td><td>8</td><td></td><td></td><td></td><td>考试</td><td>4</td><td></td></tr>
+    <tr><td>sd09010200</td><td>形势与政策(5)</td><td>0.5</td><td>8</td><td>8</td><td></td><td></td><td></td><td>考试</td><td>5</td><td></td></tr>
+    <tr><td>sd09010210</td><td>形势与政策(6)</td><td>0.5</td><td>8</td><td>8</td><td></td><td></td><td></td><td>考试</td><td>6</td><td></td></tr>
+    <tr><td>sd090101A0</td><td>形势与政策(7)</td><td>0.5</td><td>8</td><td>8</td><td></td><td></td><td></td><td>考试</td><td>7</td><td></td></tr>
+    <tr><td>sd090101B0</td><td>形势与政策(8)</td><td>0.5</td><td>8</td><td>8</td><td></td><td></td><td></td><td>考试</td><td>8</td><td></td></tr>
+    <tr>
+      <td colspan="3">应修小计</td><td>27</td><td>624</td><td>368</td><td></td><td>224</td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td rowspan="5">通识教育核心课程</td>
+      <td>00100</td><td>科技素养</td><td>2</td><td>32</td><td>32</td><td></td><td></td><td></td><td>考查</td><td>1-8</td><td>任选学分</td>
+    </tr>
+    <tr><td>00110</td><td>人文素养</td><td>2</td><td>32</td><td>32</td><td></td><td></td><td></td><td>考查</td><td>1-8</td><td>任选学分</td></tr>
+    <tr><td>00120</td><td>艺术审美</td><td>2</td><td>32</td><td>32</td><td></td><td></td><td></td><td>考查</td><td>1-8</td><td>任选学分</td></tr>
+    <tr><td>00130</td><td>生命健康</td><td>2</td><td>32</td><td>32</td><td></td><td></td><td></td><td>考查</td><td>1-8</td><td>任选学分</td></tr>
+    <tr>
+      <td colspan="3">应修说明：本专业不修读“计算思维”课程</td><td></td><td>128</td><td></td><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td rowspan="3">通识教育选修课程</td>
+      <td>00090</td><td>通识教育任选课程组</td><td>2</td><td>32</td><td>32</td><td></td><td></td><td></td><td>考查</td><td>1-8</td><td>任选学分</td>
+    </tr>
+    <tr><td colspan="3">通选英语拓展课程</td><td>2</td><td>32</td><td>32</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr>
+      <td colspan="3">应修小计</td><td>4</td><td>64</td><td></td><td></td><td></td><td></td><td></td><td>每模块任选学分</td>
+    </tr>
+    <tr>
+      <td colspan="3">通识教育课程合计</td><td>39</td><td>816</td><td>560</td><td></td><td>224</td><td></td><td></td><td></td>
+    </tr>
+  </tbody>
+</table>
+
+### (二)专业培养计划--专业教育课程
+
